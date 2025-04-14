@@ -62,3 +62,6 @@ custom:
     cookieDomain: "${custom.dev.cookieDomain}"
     frontUrl: "${custom.dev.frontUrl}"
     backUrl: "${custom.dev.backUrl}"
+  jwt:
+    secret: my-super-secret-key
+    expiration: 3600000 # 1시간 (밀리초 단위)
