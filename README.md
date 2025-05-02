@@ -24,3 +24,5 @@
 ## 🧑‍💻 Contact me
 
 <!-- 여기에 연락처 정보를 작성하세요 -->
+<img width="852" alt="스크린샷 2025-05-02 오전 10 16 58" src="https://github.com/user-attachments/assets/08ccafa0-805d-4d37-8316-21dbafb24267" />
+
