@@ -26,6 +26,32 @@ Five Log는 개발자들이 자유롭게 블로그를 작성하고, SNS 공유 �
 
 
 ---
+# 주요기능 
+
+<table>
+  <thead>
+    <tr>
+      <th>회원가입</th>
+      <th>로그인</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <img src="https://github.com/user-attachments/assets/a44ddc02-944e-4338-a7b0-9080b1df1c6e" width="100%" />
+      </td>
+      <td>
+        <img src="https://github.com/user-attachments/assets/33908e28-519f-48e5-b5fd-b5201f474f6d" width="100%" />
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+
+
+---
+
+
 
 # 🛠️ 기술 스택
 
